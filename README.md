@@ -28,7 +28,7 @@ Clone the repository:
 <pre>
 
 Copy code
-git clone https://github.com//tapeshchavle/SimonSay-Game.git
+git clone <a> https://github.com//tapeshchavle/SimonSay-Game.git</a>
 Navigate to the project directory:
 
 Copy code
