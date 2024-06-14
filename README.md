@@ -23,18 +23,15 @@ Score Tracking: Keeps track of the player's current and highest scores.<br>
 
 To run this game locally, follow these steps:<br>
 
-Clone the repository:
+Clone the repository:<br>
 
-<pre>
+Copy code<br>
+git clone https://github.com//tapeshchavle/SimonSay-Game.git<br>
+Navigate to the project directory:<br>
 
-Copy code
-git clone <a> https://github.com//tapeshchavle/SimonSay-Game.git</a>
-Navigate to the project directory:
-
-Copy code
-cd simon-says-game
-Open index.html in your preferred web browser.
-</pre>
+Copy code<br>
+cd simon-says-game<br>
+Open index.html in your preferred web browser.<br>
 
 # How to Play
 
